@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 341
+# TOTAL: 357
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,115cdn.de
   - DOMAIN-SUFFIX,1996999.xyz
   - DOMAIN-SUFFIX,204cloud.com
+  - DOMAIN-SUFFIX,3d-apollo.com
   - DOMAIN-SUFFIX,3dwhere.com
   - DOMAIN-SUFFIX,4399zmxy.com
   - DOMAIN-SUFFIX,51wanxue.com
@@ -36,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,aloys233.top
+  - DOMAIN-SUFFIX,antping.com
   - DOMAIN-SUFFIX,anycubic.com
   - DOMAIN-SUFFIX,api.myip.com
   - DOMAIN-SUFFIX,armvm.com
@@ -72,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,congmiqq.com
   - DOMAIN-SUFFIX,coros.com
   - DOMAIN-SUFFIX,crtyhr.com
+  - DOMAIN-SUFFIX,day.app
   - DOMAIN-SUFFIX,dcgstd.com
   - DOMAIN-SUFFIX,ddsrem.com
   - DOMAIN-SUFFIX,ddzn.tech
@@ -88,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,douqq.com
   - DOMAIN-SUFFIX,dskj-ops.com
   - DOMAIN-SUFFIX,dushe1.app
+  - DOMAIN-SUFFIX,easytier.top
   - DOMAIN-SUFFIX,einfo-tech.com
   - DOMAIN-SUFFIX,englibrary.com
   - DOMAIN-SUFFIX,epg.aptv.app
@@ -106,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,fssbcc.top
   - DOMAIN-SUFFIX,fsytss.com
   - DOMAIN-SUFFIX,ft07.com
+  - DOMAIN-SUFFIX,fuziche.com
   - DOMAIN-SUFFIX,fzvcolco.com
   - DOMAIN-SUFFIX,fzwqq.com
   - DOMAIN-SUFFIX,gaishitongshu.com
@@ -148,9 +153,11 @@ payload:
   - DOMAIN-SUFFIX,gxnnjidingkeji.top
   - DOMAIN-SUFFIX,gzybao.com
   - DOMAIN-SUFFIX,halvie.com
+  - DOMAIN-SUFFIX,ham.xin
   - DOMAIN-SUFFIX,haoxueche.com
   - DOMAIN-SUFFIX,hbcof.com
   - DOMAIN-SUFFIX,hbctic.com
+  - DOMAIN-SUFFIX,hdbz.net
   - DOMAIN-SUFFIX,hexiny.com
   - DOMAIN-SUFFIX,hf-mirror.com
   - DOMAIN-SUFFIX,hijin.vip
@@ -167,6 +174,7 @@ payload:
   - DOMAIN-SUFFIX,hwjianmo.com
   - DOMAIN-SUFFIX,hwzuku.com
   - DOMAIN-SUFFIX,hzlawyer.net
+  - DOMAIN-SUFFIX,hzqsn.com
   - DOMAIN-SUFFIX,icvcs.com
   - DOMAIN-SUFFIX,idsduf.com
   - DOMAIN-SUFFIX,ifconfig.co
@@ -179,10 +187,11 @@ payload:
   - DOMAIN-SUFFIX,ip159.com
   - DOMAIN-SUFFIX,ip6.seeip.org
   - DOMAIN-SUFFIX,ipapi.co
-  - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ipshu.com
   - DOMAIN-SUFFIX,istoreos.com
+  - DOMAIN-SUFFIX,itptg.com
   - DOMAIN-SUFFIX,jfjt.cc
+  - DOMAIN-SUFFIX,jh96095.com
   - DOMAIN-SUFFIX,jiqw.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,julebu.co
@@ -198,6 +207,7 @@ payload:
   - DOMAIN-SUFFIX,kuaicha888.com
   - DOMAIN-SUFFIX,kyarucloud.moe
   - DOMAIN-SUFFIX,lanyun.net
+  - DOMAIN-SUFFIX,laogongju.com
   - DOMAIN-SUFFIX,leelen.com
   - DOMAIN-SUFFIX,letaoedu.com
   - DOMAIN-SUFFIX,liunn.com
@@ -256,6 +266,7 @@ payload:
   - DOMAIN-SUFFIX,qianxueyunke.com
   - DOMAIN-SUFFIX,qiaoxuesi.com
   - DOMAIN-SUFFIX,qinglue.com
+  - DOMAIN-SUFFIX,qmeng.top
   - DOMAIN-SUFFIX,redenmc.com
   - DOMAIN-SUFFIX,registry.dockermirror.com
   - DOMAIN-SUFFIX,rewards.bing.com
@@ -292,8 +303,10 @@ payload:
   - DOMAIN-SUFFIX,thinkerride.com
   - DOMAIN-SUFFIX,tool56.com
   - DOMAIN-SUFFIX,tozi-cn.top
+  - DOMAIN-SUFFIX,tulipsport.com
   - DOMAIN-SUFFIX,tumukaoyan.com
   - DOMAIN-SUFFIX,tuxing.art
+  - DOMAIN-SUFFIX,twinkstar.com
   - DOMAIN-SUFFIX,u-carloan.com
   - DOMAIN-SUFFIX,ugdocker.link
   - DOMAIN-SUFFIX,ulife.group
@@ -325,8 +338,10 @@ payload:
   - DOMAIN-SUFFIX,xxir.com
   - DOMAIN-SUFFIX,xxrsm.com
   - DOMAIN-SUFFIX,xzsckj.com
+  - DOMAIN-SUFFIX,xzzhtc.com
   - DOMAIN-SUFFIX,ydayc.com
   - DOMAIN-SUFFIX,yiso.fun
+  - DOMAIN-SUFFIX,yixc.com
   - DOMAIN-SUFFIX,yongyu.xyz
   - DOMAIN-SUFFIX,yooc.me
   - DOMAIN-SUFFIX,yunzuoye.net
@@ -340,6 +355,7 @@ payload:
   - DOMAIN-SUFFIX,zjxhedu.com
   - DOMAIN-SUFFIX,znnu.com
   - DOMAIN-SUFFIX,znztv.com
+  - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
   - IP-CIDR,108.174.48.100/32,no-resolve
   - IP-CIDR,218.78.7.16/32,no-resolve
