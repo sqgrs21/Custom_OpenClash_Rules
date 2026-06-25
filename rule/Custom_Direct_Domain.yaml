@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 622
+# REPO: https://github.com/sqgrs21/Custom_OpenClash_Rules
+# SOURCE: https://github.com/sqgrs21/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
+# TOTAL: 625
 
 payload:
   - '*m-team*'
@@ -144,6 +144,7 @@ payload:
   - '+.day.app'
   - '+.dayilive.com'
   - '+.dcgstd.com'
+  - '+.dcshfu.com'
   - '+.ddsrem.com'
   - '+.ddzn.tech'
   - '+.dell.com'
@@ -348,6 +349,7 @@ payload:
   - '+.lg3000.top'
   - '+.lightmake.site'
   - '+.linka2a.net'
+  - '+.listenai.com'
   - '+.liunn.com'
   - '+.liveperson.net'
   - '+.longmenshuju.com'
@@ -510,6 +512,7 @@ payload:
   - '+.tianlala.com'
   - '+.timbrd.com'
   - '+.tixue.net'
+  - '+.tluyou.com'
   - '+.tmallyc.com'
   - '+.tmwanba.com'
   - '+.tnas.link'
